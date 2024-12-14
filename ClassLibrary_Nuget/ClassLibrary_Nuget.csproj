@@ -1,9 +1,16 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+
+		<PackageId>ClassLibrary_Nuget</PackageId>
+		<Version>1.0.0</Version>
+		<Authors>Aliz Parajuli</Authors>
+		<Description>A simple class library to print message on screen.</Description>
+
+
+	</PropertyGroup>
 
 </Project>
